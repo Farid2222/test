@@ -1,1 +1,1 @@
-Привет Мир!
+Goodbye World!
